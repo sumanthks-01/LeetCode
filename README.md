@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sumanthks-01/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumanthks-01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumanthks-01/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/sumanthks-01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumanthks-01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumanthks-01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumanthks-01/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/sumanthks-01/LeetCode/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumanthks-01/LeetCode/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sumanthks-01/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
