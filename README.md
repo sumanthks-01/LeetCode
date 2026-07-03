@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumanthks-01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sumanthks-01/LeetCode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/sumanthks-01/LeetCode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,8 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumanthks-01/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/sumanthks-01/LeetCode/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sumanthks-01/LeetCode/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sumanthks-01/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
