@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/sumanthks-01/LeetCode/tree/master/0415-add-strings) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/sumanthks-01/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
