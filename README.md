@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sumanthks-01/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sumanthks-01/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/sumanthks-01/LeetCode/tree/master/0415-add-strings) |
+| [1360-number-of-days-between-two-dates](https://github.com/sumanthks-01/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sumanthks-01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/sumanthks-01/LeetCode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/sumanthks-01/LeetCode/tree/master/0415-add-strings) |
+| [1360-number-of-days-between-two-dates](https://github.com/sumanthks-01/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumanthks-01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
