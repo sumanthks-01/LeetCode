@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sumanthks-01/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/sumanthks-01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/sumanthks-01/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/sumanthks-01/LeetCode/tree/master/0189-rotate-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumanthks-01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumanthks-01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sumanthks-01/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/sumanthks-01/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sumanthks-01/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sumanthks-01/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/sumanthks-01/LeetCode/tree/master/0415-add-strings) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumanthks-01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumanthks-01/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sumanthks-01/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/sumanthks-01/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sumanthks-01/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
