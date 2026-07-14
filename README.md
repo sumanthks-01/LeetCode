@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumanthks-01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sumanthks-01/LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/sumanthks-01/LeetCode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/sumanthks-01/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sumanthks-01/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sumanthks-01/LeetCode/tree/master/0258-add-digits) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumanthks-01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sumanthks-01/LeetCode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/sumanthks-01/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/sumanthks-01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/sumanthks-01/LeetCode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/sumanthks-01/LeetCode/tree/master/0415-add-strings) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sumanthks-01/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/sumanthks-01/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/sumanthks-01/LeetCode/tree/master/0415-add-strings) |
 ## Database
