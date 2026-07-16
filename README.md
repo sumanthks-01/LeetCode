@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sumanthks-01/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumanthks-01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/sumanthks-01/LeetCode/tree/master/0041-first-missing-positive) |
+| [0387-first-unique-character-in-a-string](https://github.com/sumanthks-01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sumanthks-01/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/sumanthks-01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/sumanthks-01/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sumanthks-01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/sumanthks-01/LeetCode/tree/master/0415-add-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/sumanthks-01/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumanthks-01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sumanthks-01/LeetCode/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sumanthks-01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sumanthks-01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
