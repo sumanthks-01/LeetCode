@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/sumanthks-01/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [3451-find-invalid-ip-addresses](https://github.com/sumanthks-01/LeetCode/tree/master/3451-find-invalid-ip-addresses) |
 ## Number Theory
 |  |
 | ------- |
