@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sumanthks-01/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/sumanthks-01/LeetCode/tree/master/0415-add-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/sumanthks-01/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sumanthks-01/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sumanthks-01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sumanthks-01/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
