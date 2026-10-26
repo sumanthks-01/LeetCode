@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sumanthks-01/LeetCode/tree/master/0189-rotate-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumanthks-01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sumanthks-01/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumanthks-01/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +116,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sumanthks-01/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumanthks-01/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumanthks-01/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumanthks-01/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumanthks-01/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
